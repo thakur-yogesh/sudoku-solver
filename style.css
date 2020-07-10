@@ -8,6 +8,7 @@ body{
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
+  background-repeat: no-repeat;
   font-family: 'Shadows Into Light', cursive;
 	font-weight: 400;
 	font-size:26px;
