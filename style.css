@@ -3,8 +3,6 @@
   margin:0px;
 }
 body{
-  background-image: linear-gradient(to right bottom ,rgba(245,112,103,0.8),
-  rgba(48,100,131,0.8));
   background-image: url("https://sportsturf.net/wp-content/uploads/2016/06/Blue-Gradient-Background-Wallpaper.jpg");
   background-size: cover;
   background-attachment: fixed;
